@@ -1,0 +1,14 @@
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.csproj.AssemblyReference.cache
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.AssemblyInfoInputs.cache
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.AssemblyInfo.cs
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\Factorial calc\Factorial calc\bin\Debug\netcoreapp3.1\Factorial calc.exe
+D:\Project Courses C#\Factorial calc\Factorial calc\bin\Debug\netcoreapp3.1\Factorial calc.deps.json
+D:\Project Courses C#\Factorial calc\Factorial calc\bin\Debug\netcoreapp3.1\Factorial calc.runtimeconfig.json
+D:\Project Courses C#\Factorial calc\Factorial calc\bin\Debug\netcoreapp3.1\Factorial calc.runtimeconfig.dev.json
+D:\Project Courses C#\Factorial calc\Factorial calc\bin\Debug\netcoreapp3.1\Factorial calc.dll
+D:\Project Courses C#\Factorial calc\Factorial calc\bin\Debug\netcoreapp3.1\Factorial calc.pdb
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.dll
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.pdb
+D:\Project Courses C#\Factorial calc\Factorial calc\obj\Debug\netcoreapp3.1\Factorial calc.genruntimeconfig.cache
